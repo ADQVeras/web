@@ -1,0 +1,14 @@
+.banner {
+    background-color: #ffffff;
+    text-align: left;
+}
+
+.banner img {
+    max-width: 100%;
+    position: absolute;
+    height: 75px;
+    left: 156px;
+    top: 113px;
+
+}
+
